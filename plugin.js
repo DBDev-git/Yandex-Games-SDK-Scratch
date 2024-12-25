@@ -2,10 +2,10 @@
   'use strict';
   class YaGamesSDKExtension {
     getInfo() {
-      console.log("NES Games SDK Extension");
+      console.log("Расширение SDK для Яндекс Игр для Scratch от https://t.me/damir2809_DBDev. Хотите создать игру на Scrach и выложить? Напишите ему (это бесплатно)! Хотите больше функций? Напишите ему! (цена договорная)");
       return {
         id: 'yagames',
-        name: 'Yandex Games SDK',
+        name: 'Расширение для Яндекс Игр от @damir2809_DBDev',
         color1: '#FF0000',
         blocks: [
           {
