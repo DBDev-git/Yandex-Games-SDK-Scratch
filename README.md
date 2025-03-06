@@ -10,7 +10,7 @@
 
 ## Как начать использовать?
 1. Заходим по [ссылке](https://raw.githubusercontent.com/NewEngineSystem/Yandex-Games-SDK-Scratch/main/plugin.js) и копируем код
-2. Заходим в [TurboWarp](turbowarp.org/editor)
+2. Заходим в [TurboWarp](https://turbowarp.org/editor)
 3. Жмём эту кнопку:
 4. <img src="https://raw.githubusercontent.com/NewEngineSystem/Yandex-Games-SDK-Scratch/main/extension%2B.png" 
  alt="IMAGE" width="100"/>
